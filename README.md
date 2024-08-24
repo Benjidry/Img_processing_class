@@ -2,7 +2,7 @@
 
 Welcome to the **Image Processing Basics with Python** repository! This repository is designed to help you learn the foundational concepts of image processing using Python, with hands-on examples and explanations. Whether you're a beginner or looking to solidify your knowledge, this repo will guide you through key techniques and tools.
 
-## Table of Contents
+## Table of Contents (new updates on coming!)
 
   - [1. Grayscale Conversion](#1-grayscale-conversion)
   - [2. Thresholding Techniques](#2-thresholding-techniques)
