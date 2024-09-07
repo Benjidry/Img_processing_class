@@ -7,6 +7,8 @@ Welcome to the **Image Processing Basics with Python** repository! This reposito
   - [1. Grayscale Conversion](#1-grayscale-conversion)
   - [2. Thresholding Techniques](#2-thresholding-techniques)
   - [3. Basic Operations with images](#3-Operation-Images)
+  - [4. Color manipulation](#3-Color-Manipulation)
+  - [5. Color convertion from RGB to HSL](#3-Color-Convertion)
 
 
 ## Introduction
